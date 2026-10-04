@@ -60,7 +60,7 @@ Básico: conceitos iniciais, variáveis, controle de fluxo, funções, arrays, m
 
 # Direitos Autorais e Licença
 
-Copyright © 2025 [SynerCode]. Todos os direitos reservados.
+Copyright © 2025 _**SynerCode**_. Todos os direitos reservados.
 
 **Este repositório e todo o seu conteúdo (incluindo, mas não se limitando a: códigos-fonte, documentações, textos, imagens e estruturação) são de propriedade intelectual exclusiva do autor.**
 
